@@ -23,14 +23,14 @@ public class MainActivity extends AppCompatActivity {
         logout = findViewById(R.id.logout);
         firebaseAuth = FirebaseAuth.getInstance();
 
-//        logout.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                firebaseAuth.signOut();
-//                startActivity(new Intent(MainActivity.this,LoginActivity.class));
-//            }
-//        });
-//    }
+        logout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                firebaseAuth.signOut();
+                startActivity(new Intent(MainActivity.this,LoginActivity.class));
+            }
+        });
+    }
 
     @Override
     protected void onStart() {
