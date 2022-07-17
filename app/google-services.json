@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1064928133629",
+    "project_id": "cinemafinderandroid",
+    "storage_bucket": "cinemafinderandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064928133629:android:7261de58b352af3482d994",
+        "android_client_info": {
+          "package_name": "com.cinemaFinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064928133629-1clg7sub0b6dj56fso8vpt3c2f5f96jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByG2H3iYnj5gRttx7iRZmdPEXQlaL1JU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064928133629-1clg7sub0b6dj56fso8vpt3c2f5f96jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064928133629:android:c4183fd13de30de482d994",
+        "android_client_info": {
+          "package_name": "com.example.cinemafinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064928133629-1clg7sub0b6dj56fso8vpt3c2f5f96jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByG2H3iYnj5gRttx7iRZmdPEXQlaL1JU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064928133629-1clg7sub0b6dj56fso8vpt3c2f5f96jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
