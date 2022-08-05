@@ -41,6 +41,3 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
-
-
-Bhoopathi reddy updated for bhoopathi
